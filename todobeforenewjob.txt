@@ -1,0 +1,90 @@
+-practice highcharts with xavi
+-fix my website font and rtz references
+-finish javascript book
+
+
+
+Monday:
+-post office
+-pay ticket call 510-627-4701. 
+
+after:
+solder
+get work stuff in order
+
+
+overall
+
+-pay ecove
+
+-read books (universal principles, mental models --- javascript, bash --- shell's bargaining for advantage, getting to yes book, 
+)
+
+- all lynda.com courses
+
+-post office and kinkos (boat registration and print mental models)
+
+-get more slowblow 80/100a maxi fuses, solder leds, finish wiring(vhf, gps, lights, outlets, batteries), do cushions, remove water heater, water foot pump, fix toilet pump, bilge pumps, dinghy valve and oars, facade for counter and shelves --> table, outside wood, wind vane, shade, solar, rigging, extra water, anchor, storm drogues, survival suits, epirb, paint whole boat.
+
+-first week of work, monterey
+
+
+
+
+todo for job:
+
+update linkedin and portfolio and website font
+
+-first day: ask about expectations, important projects and priorities, and how ill be evaluated and who ill be working with (so i can one-on-one them)
+-assess mision critical goals and office politics 
+-what results wuld you like to see from me to justify a raise next review?
+
+
+-github account (configure for that computer)
+-codekit
+-sublime
+-balsamiq
+-firebug?
+-links to documentation for w3 (html and css), bootstrap, jquery, https://developer.mozilla.org/en/JavaScript/Reference, ..?, javascript style guidelines, http://cheat.errtheblog.com/s/git, 
+
+bring mede notes, passport, books and chair on first day
+
+
+
+
+----
+
+highcharts: -ask xav to demonstrate highcharts (but i think that once the script is in the doc head, you just make a div with an id, and create a jquery object for that title with the method .highcharts(); inside the (), you pass parameters for chart type, tile, x-axis, y-axis, etc, based on highcharts api documentation - so select a chart type first, then put it in. q: how do you get the data in there??)
+
+----
+
+jquery: var toGet = $('input[name=inputName]').val();
+
+-------
+sublime text: commands for opening the thre dropdown pallettes, ctrl-space for autocomplete list, set tab to autocomplete, macros?, package control: 'wbond.net package control', packages: 
+
+readme please, - let's you get to the readme files of your packages
+color picker, - apple shift c - to get a color picker for hex values
+line endings, - let's you convert all line endings AND change tab size
+sidebarenhancements, - adds to sidebar and right click stuff
+hyperlinkhelper, - can be looked up in the autoopen bar to lookup something with google and create a proper link to it
+
+emmet and set user preferences to include auto_id_class: true, package control: lookup "community sublime packages" to see other packages - emmet lets you type shortcuts in order to create html code
+
+sftp, - let's you link to sftp's in order to easily update files
+git, - adds git commands into sublime text for updating the currently open file
+
+git gutt (for diff), - shows git diff in the side of a file (once it's been saved to a git repository)
+
+sublime linter, - gives linting functionality in the gutter of sublime (for saved files only)
+
+plain tasks?, - create new task document in the command list, then add projects by ending a line iwth a semicolon, add a task by hitting apple enter, apple d = done, apple c = cancelled, apple shift a = archive task.
+
+
+anything else, help / sublime text unofficial documentation, sublime forum for packages / questions. 
+
+	nil theme with tubnil color scheme. (package)
+
+	com/posts/Unofficial_Sublime_Text_2_Icon_Replacement_F-6hb for icon. 
+
+	look up stuff on each package: http://designshack.net/articles/css/7-awesome-emmet-html-time-saving-tips/
